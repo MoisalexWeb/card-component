@@ -1,0 +1,17 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build:styles": "npx tailwindcss -i ./input.css -o ./assets/styles/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^4.1.13"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.13"
+  }
+}

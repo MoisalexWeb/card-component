@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme {
+    /* colors */
+    --color-cream: hsl(30, 38%, 92%);
+    --color-green-dark: hsl(158, 42%, 18%);
+    --color-green-light: hsl(158, 36%, 37%);
+}
